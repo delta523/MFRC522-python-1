@@ -11,4 +11,4 @@ if __name__ == '__main__':
         pass
 
     finally:
-        rdr.READER.close()
+        rdr.READER.Close_MFRC522()
